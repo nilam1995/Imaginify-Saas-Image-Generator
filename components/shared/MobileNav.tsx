@@ -13,7 +13,7 @@ import { navLinks } from '@/constants'
 
 export const MobileNav = () => {
   return (
-    <header className='flex justify-between shadow-md h-16 w-full px-4'>
+    <header className='flex justify-between shadow-md h-16 w-full px-4 lg:hidden'>
       <Link href="/">
         <Image src="/assets/images/logo-text.svg" alt="logo" width={180} height={28} className='flex justify-center h-full '/>
       </Link>
