@@ -13,6 +13,8 @@
     "@radix-ui/react-dialog": "^1.0.5",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "dotenv": "^16.4.5",
+    "firebase": "^10.12.2",
     "lucide-react": "^0.390.0",
     "mongodb": "^6.7.0",
     "mongoose": "^8.4.1",
